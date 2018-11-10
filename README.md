@@ -1,2 +1,11 @@
 # RGB-guessing-game
- a cool RGB guessing game to practice on your RGB knowledge
+ A cool RGB guessing game to practice on your RGB knowledge
+ 
+ # Tech
+  JS
+  CSS
+  HTML
+  
+  # License
+  Free Software!!!
+  
